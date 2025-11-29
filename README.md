@@ -17,7 +17,7 @@ The dataset includes information about:
 * Refunds and cancellations
 
 The goal of this dashboard is to deliver clear insights into train performance, passenger behavior, and revenue patterns using powerful data visualization techniques.
-
+![dash image](https://github.com/theravendrasahu/UK-Train-Analysis/blob/2d96775171c549755bc514a7c2c3fcceb903890f/Screenshot%202025-11-28%20234204.png)
 ---
 
 ## 🎯 Key Objectives
